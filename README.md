@@ -6,6 +6,6 @@ Some changes to made in
 (Location:Thread_forum\functions)
 file: connection.php  
 line number:3 and 4 enter your SQL username and password
-and 
+
 Open link: http://127.0.0.1/Thread_forum
 
